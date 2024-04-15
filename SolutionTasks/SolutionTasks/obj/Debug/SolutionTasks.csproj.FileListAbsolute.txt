@@ -1,0 +1,7 @@
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\bin\Debug\SolutionTasks.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\bin\Debug\SolutionTasks.exe
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\bin\Debug\SolutionTasks.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\obj\Debug\SolutionTasks.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\obj\Debug\SolutionTasks.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\obj\Debug\SolutionTasks.exe
+C:\Users\Nasim Mulladzhanov\Desktop\SolutionTasks\SolutionTasks\obj\Debug\SolutionTasks.pdb
